@@ -1,4 +1,4 @@
-# Marvel-game
+# Game flow
 Each player will select his three champions to form his team. The champions will take turns
 based on their speed. The champion with the highest speed (from all selected champions) will
 begin acting first followed by the champion with the second highest speed and so on. When
