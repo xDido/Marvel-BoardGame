@@ -1,5 +1,5 @@
 # Intro
-M arvel: Ultimate War is a 2 player battle game. Each player picks 3 champions to form his team
+Marvel: Ultimate War is a 2 player battle game. Each player picks 3 champions to form his team
 and fight the other player’s team. The players take turns to fight the other player’s champions.
 The turns will keep going back and forth until a player is able to defeat all of the other player’s
 champions which will make him the winner of the battle.
@@ -8,6 +8,22 @@ by using normal attacks or using special attacks/abilities. The battle takes pla
 Each cell in the grid can either be empty, or contain a champion or obstacle/cover. At the
 beginning of the battle, each team will stand at one of the sides/edges of the grid as a starting
 position.
+# Champions
+Champions are the fighters that each player will form his team from. Each champion will have
+a certain type which influences how the champion deals damage to other types as well as how
+much damage it will receive from them. The available types are:-
+  • Heroes: they deal extra damage when attacking villains.
+  • Villains: they deal extra damage when attacking heroes.
+  • Anti-Heroes: when being attacked or attacking a hero or villain, the antihero will always
+   act as the opposite type. If attacking an antihero, damage is calculated normally.
+ The available champions along with their corresponding type:
+ Champion | Type | Champion | Type | Champion | Type 
+------------- | ------------- |-------------|-------------|-------------|-------------
+Captain America | Hero | Deadpool | Anti-Hero | Dr Strange | Hero
+Electro | Villain | Ghost Rider | Anti-Hero | Hela | Villain
+Hulk | Hero | Iceman | Hero | Ironman | Hero
+Loki | Villain | Quicksilver | Villain | Spiderman | Hero
+Thor | Hero | Venom | Anti-Hero | Yellow Jacket | Villain
 
 # Game flow
 Each player will select his three champions to form his team. The champions will take turns
