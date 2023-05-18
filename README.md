@@ -24,6 +24,7 @@ Electro | Villain | Ghost Rider | Anti-Hero | Hela | Villain
 Hulk | Hero | Iceman | Hero | Ironman | Hero
 Loki | Villain | Quicksilver | Villain | Spiderman | Hero
 Thor | Hero | Venom | Anti-Hero | Yellow Jacket | Villain
+
 Each champion has the following attributes and characteristics:-
 • Health points: Represents the life of the champion. As long as the value of this attribute
 is bigger than zero, the champion will remain alive and can act in the game. Once the
