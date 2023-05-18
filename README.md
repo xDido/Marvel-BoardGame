@@ -26,34 +26,34 @@ Loki | Villain | Quicksilver | Villain | Spiderman | Hero
 Thor | Hero | Venom | Anti-Hero | Yellow Jacket | Villain
 
 Each champion has the following attributes and characteristics:-
-• Health points: Represents the life of the champion. As long as the value of this attribute
-is bigger than zero, the champion will remain alive and can act in the game. Once the
-value of this attribute reaches zero, the champion is considered dead and hence, eliminated
-from the fight.
-• Mana: a resource that a champion uses to use his abilities. Each time a player uses an
-ability, a certain amount of mana will be consumed. Once run out, the champion cannot
-use any of his abilities.
-• Normal attack damage: The amount of damage that the champion will inflict upon
-the attacked champion while using a normal attack. This amount will be deducted from
-the attacked champion’s health points.
-• Normal attack range: The maximum number of cells that the attacker’s normal attack
-can reach the attacked champion within. If the attacked champion is standing in distance
-greater than this range, the attacker can not use a normal attack on him.
-– Range is calculated by the Manhattan distance algorithm.
-• Speed: Determines how fast the champion is. The faster the champion, the sooner he
-can carry out his actions before other champions.
-• Condition: Represents the current ability/inability of the champion to act. The champion can be active (can do some actions), inactive (can not do any actions until he is back
-to active), or knocked out (defeated and can not do any action till the end of the game).
-• Actions per turn: A number representing how many actions a player can do with the
-champion during each of his turns. Each action will consume a certain amount of this
-number. Once it reaches zero, no more actions can be done by this champion during this
-turn. This attribute resets each time the turn goes to the champion.
-Possible actions that can be done by a champion during his turn:
-2
-– Move to an empty cell.
-– Do a normal attack.
-– Cast an ability.
-– Use Leader Ability (only if champion is the player’s chosen leader)
+  • Health points: Represents the life of the champion. As long as the value of this attribute
+  is bigger than zero, the champion will remain alive and can act in the game. Once the
+  value of this attribute reaches zero, the champion is considered dead and hence, eliminated
+  from the fight.
+  • Mana: a resource that a champion uses to use his abilities. Each time a player uses an
+  ability, a certain amount of mana will be consumed. Once run out, the champion cannot
+  use any of his abilities.
+  • Normal attack damage: The amount of damage that the champion will inflict upon
+  the attacked champion while using a normal attack. This amount will be deducted from
+  the attacked champion’s health points.
+  • Normal attack range: The maximum number of cells that the attacker’s normal attack
+  can reach the attacked champion within. If the attacked champion is standing in distance
+  greater than this range, the attacker can not use a normal attack on him.
+  – Range is calculated by the Manhattan distance algorithm.
+  • Speed: Determines how fast the champion is. The faster the champion, the sooner he
+  can carry out his actions before other champions.
+  • Condition: Represents the current ability/inability of the champion to act. The champion can be active (can do some actions), inactive (can not do any actions until he is back
+  to active), or knocked out (defeated and can not do any action till the end of the game).
+  • Actions per turn: A number representing how many actions a player can do with the
+  champion during each of his turns. Each action will consume a certain amount of this
+  number. Once it reaches zero, no more actions can be done by this champion during this
+  turn. This attribute resets each time the turn goes to the champion.
+  
+ Possible actions that can be done by a champion during his turn:
+    – Move to an empty cell.
+    – Do a normal attack.
+    – Cast an ability.
+    – Use Leader Ability (only if champion is the player’s chosen leader)
 
 # Game flow
 Each player will select his three champions to form his team. The champions will take turns
