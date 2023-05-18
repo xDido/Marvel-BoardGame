@@ -8,6 +8,7 @@ by using normal attacks or using special attacks/abilities. The battle takes pla
 Each cell in the grid can either be empty, or contain a champion or obstacle/cover. At the
 beginning of the battle, each team will stand at one of the sides/edges of the grid as a starting
 position.
+- - - -
 # Champions
 Champions are the fighters that each player will form his team from. Each champion will have
 a certain type which influences how the champion deals damage to other types as well as how
@@ -56,7 +57,7 @@ Each champion has the following attributes and characteristics:-
     – Do a normal attack.
     – Cast an ability.
     – Use Leader Ability (only if champion is the player’s chosen leader)
-
+- - - -
 # Game flow
 Each player will select his three champions to form his team. The champions will take turns
 based on their speed. The champion with the highest speed (from all selected champions) will
