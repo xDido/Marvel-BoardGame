@@ -16,7 +16,9 @@ much damage it will receive from them. The available types are:-
   * Villains: they deal extra damage when attacking heroes.
   * Anti-Heroes: when being attacked or attacking a hero or villain, the antihero will always
    act as the opposite type. If attacking an antihero, damage is calculated normally.
+   
  The available champions along with their corresponding type:
+ 
  Champion | Type | Champion | Type | Champion | Type 
 ------------- | ------------- |-------------|-------------|-------------|-------------
 Captain America | Hero | Deadpool | Anti-Hero | Dr Strange | Hero
