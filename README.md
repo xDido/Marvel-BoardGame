@@ -1,5 +1,6 @@
+![picture alt](https://4.bp.blogspot.com/-eqPNLqeDI-w/XI51rOAe22I/AAAAAAAAAts/gBOCnWl70iQc6POs9ORbgAFWip5j-jogACKgBGAs/w1920-h1080-c/avengers-endgame-movie-characters-uhdpaper.com-4K-52.jpg)
 # Intro
-Marvel: Ultimate War is a 2 player battle game. Each player picks 3 champions to form his team
+Marvel Ultimate War is a 2 player battle game. Each player picks 3 champions to form his team
 and fight the other player’s team. The players take turns to fight the other player’s champions.
 The turns will keep going back and forth until a player is able to defeat all of the other player’s
 champions which will make him the winner of the battle.
@@ -52,11 +53,34 @@ Each champion has the following attributes and characteristics:-
   number. Once it reaches zero, no more actions can be done by this champion during this
   turn. This attribute resets each time the turn goes to the champion.
   
- Possible actions that can be done by a champion during his turn:
-    – Move to an empty cell.
-    – Do a normal attack.
-    – Cast an ability.
-    – Use Leader Ability (only if champion is the player’s chosen leader)
+ Possible actions that can be done by a champion during his turn: 
+- Move to an empty cell.
+- Do a normal attack.
+- Cast an ability.
+- Use Leader Ability (only if champion is the player’s chosen leader)
+    
+- - - -
+# Abilities
+These are special attacks that a champion can use. They are categorized under the following
+categories:-
+* Damaging abilities: Abilities that deal damage to the opponent champion(s) or covers.
+* Healing abilities: Abilities that restore health points to friendly champion(s).
+* Effect abilities: Abilities that can empower or weaken their targets by applying different
+effects. These effects can last for multiple turns and will affect how the affected champion
+interacts or reacts to abilities or attacks.
+  * Example of some effects: stun, weaken, embrace, shield, silence, disarm.
+ * Abilities have different targets and ranges. 
+ * Some abilities are single target abilities which affect only a single champion (or a cover in some cases) per use. Or can affect any champion
+ * standing in a certain area (area of effect). These areas can be directional (Horizontal or
+    Vertical), or Circuilar (affect an area surrounding a central point). Finally, some abilities
+    can affect all friendly or opposing champions.
+*Each ability requires a certain amount of action points to be present in the champion
+casting them as well as some mana. Also, each ability has a specific range of cells that
+the target needs to be present in it in order for the ability to affect it.
+## Leader Abilities
+At the beginning of the battle, each player promotes one of his champions to be the leader of
+his team. The leader will then receive a special ability based on his type that can be used only
+once per battle.
 - - - -
 # Game flow
 Each player will select his three champions to form his team. The champions will take turns
@@ -69,4 +93,12 @@ turn will go to the next champion.
 The turns will keep passing over the living champions till a player is able to defeat all of the
 three champions of the opponent player. In this case, the game ends and the player with the
 living champion will be declared the winner.
+- - - -
+# Controls
 
+Key | Action
+------------- | -------------
+<kbd>↑</kbd>  | Move up
+<kbd>↓</kbd>  | Move down
+<kbd>←</kbd> | Move left
+<kbd>→</kbd> | Move right
