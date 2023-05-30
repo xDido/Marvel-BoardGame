@@ -102,4 +102,5 @@ Key | Action
 <kbd>↓</kbd>  | Move down
 <kbd>←</kbd> | Move left
 <kbd>→</kbd> | Move right
-You need to run the FirstGameFrame.java file to start playing.
+
+* You need to run the FirstGameFrame.java file to start playing.
